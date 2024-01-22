@@ -1,1 +1,1 @@
-# SimpleGameRain
+깃허브 잘 모를 때 강의 따라 만든 게임 
